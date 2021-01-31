@@ -1,0 +1,22 @@
+{
+  "QPSK": {
+    "BitsPerSymbol": 2,
+    "MinimumSNR": 8.47
+  },
+  "8QAM": {
+    "BitsPerSymbol": 3,
+    "MinimumSNR": 12.45
+  },
+  "16QAM": {
+    "BitsPerSymbol": 4,
+    "MinimumSNR": 15.13
+  },
+  "32QAM": {
+    "BitsPerSymbol": 5,
+    "MinimumSNR": 18.12
+  },
+  "64QAM": {
+    "BitsPerSymbol": 6,
+    "MinimumSNR": 21.05
+  }
+}
